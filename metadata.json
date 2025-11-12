@@ -1,0 +1,7 @@
+{
+  "name": "Grounded AI Chat",
+  "description": "An AI-powered chatbot that leverages Google Search and Google Maps to provide up-to-date and location-aware answers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
